@@ -97,3 +97,5 @@ or
 NODE_OPTIONS=--max_old_space_size=4096 jupyter labextension install ...
 ```
 This increases the available memory for the build process to 4Gb.
+# jupyter_notebook_dir
+# jupyter_notebook_dir
